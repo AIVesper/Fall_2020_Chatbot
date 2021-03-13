@@ -1,5 +1,5 @@
-queryApi="https://asia-east2-chatbot-108aea001-296006.cloudfunctions.net/exhibition-retrieve"
+queryApi=""
 
-listApi="https://asia-east2-chatbot-108aea001-296006.cloudfunctions.net/star-retrieve"
+listApi=""
 
-deleteApi="https://asia-east2-chatbot-108aea001-296006.cloudfunctions.net/star-delete"
+deleteApi=""
